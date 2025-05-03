@@ -15,11 +15,8 @@ Yuxian is currently a Research Fellow in *Blockchain Application and Security*, 
 <p align="right"> - Christina Rossetti </p>
 
 
-Blockchain systems are widely applied across various fields, involving many user data, including sensitive privacy data. My research interests fo‑
-cus on blockchain data governance that can help improve the scalability, privacy, and security of blockchain systems (mainly targeting public
-blockchain systems such as Ethereum). Further, I am quite interested in blockchain data supervision specific in Payment Channel (PC), Decen‑
-tralized Identity (DID), and Anonymous Credentials (AC), based on trusted hardware (such as Intel SGX) and cryptographic technology (such as
-zero‑knowledge proof of knowledge and homomorphic encryption schemes), to resolve privacy and supervision concerns.
+Blockchain systems are widely applied across various fields, involving many user data, including sensitive privacy data. My research interests focus on blockchain data governance that can help improve the scalability, privacy, and security of blockchain systems (mainly targeting public
+blockchain systems such as Ethereum). Further, I am quite interested in blockchain data supervision specific in Payment Channel (PC), Decentralized Identity (DID), and Anonymous Credentials (AC), based on trusted hardware (such as Intel SGX) and cryptographic technology (such as zero‑knowledge proof of knowledge and homomorphic encryption schemes), to resolve privacy and supervision concerns.
  
 
 ## Recent News
