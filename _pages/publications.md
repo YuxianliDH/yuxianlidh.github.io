@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ### Conference Papers
- * [ACISP] Pengfei Wu, **Yuxian Li(co-first author)**, Lisha Yao, Xiaoguo Li, Guomin Yang, Tao Xiang, Robert H. Deng, "Understanding the Security of Cloud Storage Services: A Case Study and UC-Secure Design."
+ * [ACISP'26] Pengfei Wu, **Yuxian Li**(co-first author), Lisha Yao, Xiaoguo Li, Guomin Yang, Tao Xiang, Robert H. Deng, "Understanding the Security of Cloud Storage Services: A Case Study and UC-Secure Design."
+ * [ESORIC'25]Jianfei Sun, **Li Yuxian**(corresponding author), Xuehuan Yang, Guomin Yang, Robert Deng, "An efficient security-enhanced accountable access control fornamed data networkingnamed data networking."
+
  * [FC’25] Ming Li, **Li Yuxian**(corresponding author), Jian Weng, Yingjiu Li, Jiasi Weng, Junzuo Lai, RobertH Deng, “IvyAPC: Auditable Generalized Payment Chan‑
 nels.”
 

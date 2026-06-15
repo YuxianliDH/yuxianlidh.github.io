@@ -20,9 +20,9 @@ blockchain systems such as Ethereum). Further, I am quite interested in blockcha
  
 
 ## Recent News
-  * [June 2026] Our work "[*MISC: Flexible Data Management for Private Smart Contract*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11553458)" was public in IEEE Transactions on Information Forensics and Security (TIFS).
-  * [May 2026] Our work "[*Understanding the Security of Cloud Storage Services: A Case Study and UC-Secure Design.*]" was accepted and presented by the IEEE Transactions on Dependable and Secure Computing (TDSC).
-  
+  * [June 2026] Our work "[*MISC: Flexible Data Management for Private Smart Contract*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11553458)" was public in IEEE Transactions on Dependable and Secure Computing (TDSC).
+  * [May 2026] Our work "[*Understanding the Security of Cloud Storage Services: A Case Study and UC-Secure Design.*]" was accepted and presented by the Australasian Conference on Information Security and Privacy (ACISP) 2026.
+  * [June 2025] Our work "[*An Efficient Security-Enhanced Accountable Access Control for Named Data Networking*](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=11487&context=sis_research)" was accepted and presented by the European Symposium on Research in Computer Security (ESORIC) 2025.
   * [April 2025] Our work "[*IvyAPC: Auditable Generalized Payment Channels*](https://fc25.ifca.ai/preproceedings/277.pdf)" was accepted and presented by the Financial Cryptography and Data Security (FC) 2025.
   * [April 2025] Opened my academic homepage! 
   * [Jan 2025] Our work "[*AuditPCH: Auditable Payment Channel Hub With Privacy Protection*](https://ieeexplore.ieee.org/abstract/document/10793449/)" was public in IEEE Transactions on Information Forensics and Security (TIFS).
