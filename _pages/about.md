@@ -20,7 +20,8 @@ blockchain systems such as Ethereum). Further, I am quite interested in blockcha
  
 
 ## Recent News
-
+  * [June 2026] Our work "[*MISC: Flexible Data Management for Private Smart Contract*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11553458)" was public in IEEE Transactions on Information Forensics and Security (TIFS).
+  * [May 2026] Our work "[*Understanding the Security of Cloud Storage Services: A Case Study and UC-Secure Design.*]" was accepted and presented by the IEEE Transactions on Dependable and Secure Computing (TDSC).
   
   * [April 2025] Our work "[*IvyAPC: Auditable Generalized Payment Channels*](https://fc25.ifca.ai/preproceedings/277.pdf)" was accepted and presented by the Financial Cryptography and Data Security (FC) 2025.
   * [April 2025] Opened my academic homepage! 

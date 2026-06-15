@@ -11,7 +11,7 @@ nels.”
 
 
 ### Journal Papers
-* [TDSC'26] **Yuxian Li**, Xiaoguo Li, Guomin Yang, Haoxin Tu, Jianfei Sun, and Robert H. Deng, "MISC: Flexible Data Management for Private Smart Contract"
+* [TDSC'26] **Yuxian Li**, Xiaoguo Li, Guomin Yang, Haoxin Tu, Jianfei Sun, and Robert H. Deng, "MISC: Flexible Data Management for Private Smart Contract".
 * [TIFS’25] **Li Yuxian**, Jian Weng, Junzuo Lai, Yingjiu Li, Jianfei Sun, Jiahe Wu, Ming Li, Pengfei Wu, Robert H Deng, “AuditPCH: Auditable
 payment channel hub with privacy protection.''
 * [JPDC 2023]  **Li Yuxian**, Weng Jian, Wu Wei, Li Ming, Li Yingjiu, Haoxin Tu, Wu Yongdong, and Robert. H. Deng, “PRI: PCH‑based privacy‑
