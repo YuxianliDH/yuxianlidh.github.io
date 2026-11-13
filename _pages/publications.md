@@ -10,9 +10,9 @@ author_profile: true
 
  * [FC’25] Ming Li, **Li Yuxian**(corresponding author), Jian Weng, Yingjiu Li, Jiasi Weng, Junzuo Lai, RobertH Deng, “IvyAPC: Auditable Generalized Payment Chan‑
 nels.”
-
-
+ 
 ### Journal Papers
+* [TSC'26] **Yuxian Li**, Haoxin Tu, Xiaoguo Li, Guomin Yang, Jiahe Wu, Jianfei Sun, and Robert H. Deng, "Balancing Privacy and Regulation in Private Smart Contracts via TEEs".
 * [TDSC'26] **Yuxian Li**, Xiaoguo Li, Guomin Yang, Haoxin Tu, Jianfei Sun, and Robert H. Deng, "MISC: Flexible Data Management for Private Smart Contract".
 * [TIFS’25] **Li Yuxian**, Jian Weng, Junzuo Lai, Yingjiu Li, Jianfei Sun, Jiahe Wu, Ming Li, Pengfei Wu, Robert H Deng, “AuditPCH: Auditable
 payment channel hub with privacy protection.''
