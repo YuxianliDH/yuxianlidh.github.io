@@ -20,6 +20,7 @@ blockchain systems such as Ethereum). Further, I am quite interested in blockcha
  
 
 ## Recent News
+  * [Dec 2026] Our work "[*Balancing Privacy and Regulation in Private Smart Contracts via TEEs*]" was public in IEEE Transactions on Services Computing (TSC).
   * [June 2026] Our work "[*MISC: Flexible Data Management for Private Smart Contract*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11553458)" was public in IEEE Transactions on Dependable and Secure Computing (TDSC).
   * [May 2026] Our work "[*Understanding the Security of Cloud Storage Services: A Case Study and UC-Secure Design.*]()" was accepted and presented by the Australasian Conference on Information Security and Privacy (ACISP) 2026.
   * [June 2025] Our work "[*An Efficient Security-Enhanced Accountable Access Control for Named Data Networking*](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=11487&context=sis_research)" was accepted and presented by the European Symposium on Research in Computer Security (ESORIC) 2025.
